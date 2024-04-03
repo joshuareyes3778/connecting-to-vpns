@@ -10,6 +10,6 @@
 <h2>Installing and Using a VPN</h2>
 
 <h3>Necessary Components</h3>
-<p>The only necessary compoments </p>
+<p>The only necessary compoments needed to use a VPN are a computer and a VPN service provider of some kind. In this example ProtonVPN will be used.</p>
 
 <h3>Installing the VPN</h3>
