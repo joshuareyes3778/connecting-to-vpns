@@ -19,5 +19,4 @@
 pootispencer here
 
 <p>
-  As seen in the image, there are multiple options available for whichever operating system you are using. Download the appropriate client. 
-</p>
+  As seen in the image, there are multiple options available for whichever operating system you are using. Download the appropriate client using the download button. It will take you to a page where you can properly download the ProtonVPN application. When setting up the installation, the defaults will work just fine to get the VPN up and running on your device. 
