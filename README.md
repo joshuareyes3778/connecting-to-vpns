@@ -15,3 +15,9 @@
 <h3>Installing the VPN</h3>
 <p>To use a VPN service, an account must first be made with one of them. There are a variety of VPN services, both free and paid. As previously stated, ProtonVPN will be used. In order to begin using this service, you will first need to create an account with ProtonVPN. A free account is available, which is perfect for this demonstration. This will give you access to the main page of ProtonVPN. There will be options to add a paid plan, but ignore all of those for now. Instead click on Downloads in the menu on the left. 
 </p>
+
+pootispencer here
+
+<p>
+  As seen in the image, there are multiple options available for whichever operating system you are using. Download the appropriate client. 
+</p>
