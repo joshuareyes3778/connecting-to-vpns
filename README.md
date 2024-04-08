@@ -22,8 +22,8 @@ pootispencer here
   As seen in the image, there are multiple options available for whichever operating system you are using. Download the appropriate client using the download button. It will take you to a page where you can properly download the ProtonVPN application. When setting up the installation, the defaults will work just fine to get the VPN up and running on your device. 
 </p>
 
-errer diid
+<h3>Using the VPN</h3>
 
 <p>
-  Once the installation is complete and you enter your credentials in the resulting popup, you will have this menu. 
+  Once the installation is complete and you enter your credentials in the resulting popup, you will have a menu. The free version will only allow you to connect to one of 5 locations.
 </p>
