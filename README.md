@@ -16,7 +16,8 @@
 <p>To use a VPN service, an account must first be made with one of them. There are a variety of VPN services, both free and paid. As previously stated, ProtonVPN will be used. In order to begin using this service, you will first need to create an account with ProtonVPN. A free account is available, which is perfect for this demonstration. This will give you access to the main page of ProtonVPN. There will be options to add a paid plan, but ignore all of those for now. Instead click on Downloads in the menu on the left. 
 </p>
 
-pootispencer here
+![protonvpn menu](https://github.com/joshuareyes3778/connecting-to-vpns/assets/160282161/890ba1cc-b317-4242-a986-bff92a15fc24)
+
 
 <p>
   As seen in the image, there are multiple options available for whichever operating system you are using. Download the appropriate client using the download button. It will take you to a page where you can properly download the ProtonVPN application. When setting up the installation, the defaults will work just fine to get the VPN up and running on your device. 
@@ -26,4 +27,10 @@ pootispencer here
 
 <p>
   Once the installation is complete and you enter your credentials in the resulting popup, you will have a menu. The free version will only allow you to connect to one of 5 locations.
+</p>
+
+![vpn app main screen](https://github.com/joshuareyes3778/connecting-to-vpns/assets/160282161/84f4f1b4-41a9-42ab-895a-0f7913ae7aab)
+
+<p>
+  
 </p>
