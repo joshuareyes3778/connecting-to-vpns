@@ -32,5 +32,5 @@
 ![vpn app main screen](https://github.com/joshuareyes3778/connecting-to-vpns/assets/160282161/84f4f1b4-41a9-42ab-895a-0f7913ae7aab)
 
 <p>
-  
+  It is recommended that you use the US VPN, since the results for your searches may not be readable if you have the VPN connection to the ones in Denmark or Japan. As previously stated, you could access content that is exclusive to the available countries. Most other features are unavailable with a free account. This will all add a bit more security to your browsing and might improve your browsing experience as well.
 </p>
