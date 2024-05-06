@@ -1,5 +1,5 @@
 <p>
-<h1>VPN's: What They Are and What they Do</h1>
+<h1>VPN's: Installing and Using One</h1>
 </p>
 
 <p>VPN's are often metioned in relation to privacy and internet safety. </p>
